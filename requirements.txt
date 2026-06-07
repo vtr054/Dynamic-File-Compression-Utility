@@ -1,0 +1,6 @@
+# Since this project relies purely on Python Standard Libraries (heapq, collections, json, os, sys)
+# there are no external dependencies required to run the core logic.
+
+# (Optional) Add testing or formatting libraries if you expand the project
+# pytest==7.4.3
+# black==23.11.0

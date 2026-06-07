@@ -1,0 +1,18 @@
+# Ignore virtual environment folders
+venv/
+env/
+.env
+
+# Ignore python bytecode
+__pycache__/
+*.pyc
+
+# Ignore output files for Git (You can commit sample ones later, but usually we ignore bulk outputs)
+compressed_files/*.bin
+decompressed_files/*.txt
+!compressed_files/.gitkeep
+!decompressed_files/.gitkeep
+
+# Ignore IDE files
+.vscode/
+.idea/
