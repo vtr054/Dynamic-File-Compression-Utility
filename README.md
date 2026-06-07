@@ -66,7 +66,7 @@ Dynamic-File-Compression-Utility/
 
 ### Step 1: Clone and Setup
 ```bash
-git clone https://github.com/your-username/Dynamic-File-Compression-Utility.git
+git clone https://github.com/vtr054/Dynamic-File-Compression-Utility.git
 cd Dynamic-File-Compression-Utility
 ```
 
